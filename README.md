@@ -20,6 +20,7 @@ Here are a few of my recent projects:
 
 ## Education
 
+- FullStack Developer JavaScript from DesafioLatam (Graduated in Apr 2023)
 - Business Engineering from Universidad Adolfo IBañez (Graduated in 2020)
 - Master of Science in Finance from Universidad Adolfo Ibañez (2020)
 ## Contact
