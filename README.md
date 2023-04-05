@@ -20,7 +20,7 @@ Here are a few of my recent projects:
 
 ## Education
 
-- Business Engineering in [Field of Study] from Universidad Adolfo IBañez (Graduated in 2020)
+- Business Engineering from Universidad Adolfo IBañez (Graduated in 2020)
 - Master of Science in Finance from Universidad Adolfo Ibañez (2020)
 ## Contact
 
