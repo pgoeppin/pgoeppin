@@ -14,9 +14,9 @@ I am a software developer with experience in the PERN (PostgreSQL, Express, Reac
 ## Projects
 
 Here are a few of my recent projects:
-
-- [Final Proyect Bootcamp DesafioLatam - Data Dashboard BackEnd](https://github.com/Sherydan/backend-proyecto-final) - BackEnd part of the final project of my bootcamp. It is done with Express.js, jsonwebtoken, bcryptjs with a MVC (model, view, controller) arquitecture. The database is done in PostgreSQL.
-- [Final Proyect Bootcamp DesafioLatam - Data Dashboard FrontEnd](https://github.com/Sherydan/proyecto-final-frontend) - FrontEnd part of the final project of my bootcamp. All is done with React.JS and bootstrap.
+- Final Project Bootcamp - Data Dashboard: This data visualization project will provide you with valuable information and enable efficient management of your team. We hope this service will be a valuable tool to help you achieve your business goals.
+  - [Final Project Bootcamp DesafioLatam - Data Dashboard BackEnd](https://github.com/Sherydan/backend-proyecto-final) - BackEnd part of the final project of my bootcamp. It is done with Express.js, jsonwebtoken, bcryptjs with a MVC (model, view, controller) arquitecture. The database is done in PostgreSQL.
+  - [Final Project Bootcamp DesafioLatam - Data Dashboard FrontEnd](https://github.com/Sherydan/proyecto-final-frontend) - FrontEnd part of the final project of my bootcamp. All is done with React.JS and bootstrap.
 
 ## Education
 
