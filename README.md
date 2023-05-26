@@ -27,7 +27,7 @@ Here are a few of my recent projects:
 
 - <img src="https://img.icons8.com/fluent/24/000000/email-open.png"/> Email: pgoeppin@gmail.com
 - <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> LinkedIn: https://www.linkedin.com/in/pgoeppinger/
-- <img src="
+- <img src="https://img.icons8.com/phone"/> Phone: (+56) 973986696
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project.
 
