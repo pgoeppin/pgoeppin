@@ -6,7 +6,7 @@ Also, I enjoy developing web applications and exploring new technologies to impr
 ## Skills
 
 <details>
-<summary>Data Skills</summary>
+<summary open>Data Skills</summary>
   <ul>
     <li><img src="https://img.icons8.com/color/24/000000/python.png"/> Python: NumPy, Pandas, Jupyter Lab, Seaborn and more...</li>
     <li><img src="https://img.icons8.com/color/24/000000/business.png"/> Excel</li>
