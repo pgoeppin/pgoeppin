@@ -39,7 +39,6 @@ Here are a few of my recent projects:
 - FullStack Developer JavaScript from DesafioLatam (Graduated in Apr 2023)
 - Business Engineering from Universidad Adolfo Ibañez (Graduated in 2020)
 - Master of Science in Finance from Universidad Adolfo Ibañez (2020)
-- 
 ## Contact
 
 - <img src="https://img.icons8.com/fluent/24/000000/email-open.png"/> Email: pgoeppin@gmail.com
