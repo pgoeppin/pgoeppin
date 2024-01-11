@@ -6,12 +6,20 @@ I am a software developer with experience in the PERN (PostgreSQL, Express, Reac
 
 <details>
 <summary>Web Development Skills</summary>
-- <img src="https://img.icons8.com/color/24/000000/javascript.png"/> JavaScript
-- <img src="https://img.icons8.com/color/24/000000/postgreesql.png"/> PostgreSQL
-- <img src="https://img.icons8.com/color/24/000000/express.png"/> Express
-- <img src="https://img.icons8.com/color/24/000000/react-native.png"/> React
-- <img src="https://img.icons8.com/color/24/000000/nodejs.png"/> Node.js
-- <img src="https://img.icons8.com/color/24/000000/html-5.png"/> HTML/CSS
+  <ul>
+    <li><img src="https://img.icons8.com/color/24/000000/javascript.png"/> JavaScript</li>
+    <li><img src="https://img.icons8.com/color/24/000000/postgreesql.png"/> PostgreSQL</li>
+    <li><img src="https://img.icons8.com/color/24/000000/express.png"/> Express</li>
+    <li><img src="https://img.icons8.com/color/24/000000/react-native.png"/> React</li>
+    <li><img src="https://img.icons8.com/color/24/000000/nodejs.png"/> Node.js</li>
+    <li><img src="https://img.icons8.com/color/24/000000/html-5.png"/> HTML/CSS</li>
+  </ul>
+<summary>Test2</summary>
+  <ul>
+    <li>Hola</li>
+    <li>Hola</li>
+    <li>Hola</li>
+  </ul>
 </details>
 
 
