@@ -9,7 +9,7 @@ Also, I enjoy developing web applications and exploring new technologies to impr
 <summary>Data Skills</summary>
   <ul>
     <li><img src="https://img.icons8.com/color/24/000000/python.png"/> Python: NumPy, Pandas, Jupyter Lab, Seaborn and more...</li>
-    <li><img src="https://img.icons8.com/color/24/000000/excel.png"/> Excel</li>
+    <li><img src="https://img.icons8.com/color/24/000000/business.png"/> Excel</li>
     <li><img src="https://img.icons8.com/color/24/000000/graph.png"/> Data Visualization: PowerBI, Google Looker Studio</li>
     <li><img src="https://img.icons8.com/color/24/000000/database.png"/> SQL: Google BigQuery, Oracle SQL Developer, PostgreSQL, MySQL, Microsoft SQL Server</li>
   </ul>
